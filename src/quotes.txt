@@ -1,0 +1,269 @@
+Don't worry about what anybody else is going to do. The best way to predict the future is to invent it. -- Alan Kay
+{1}
+Premature optimization is the root of all evil (or at least most of it) in programming. -- Donald Knuth
+{1}
+Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great. -- Mark Twain
+{1}
+To follow the path: look to the master, follow the master, walk with the master,see through the master, become the master. -- Modern zen Poem
+{1}
+No problem should ever have to be solved twice. -- Eric S. Raymond, How to become a hacker
+{1}
+Attitude is no substitute for competence.-- Eric S. Raymond, How to become a hacker
+{1}
+It is said that the real winner is the one who lives in today but able to see tomorrow. -- Juan Meng, Reviewing "The future of ideas" by Lawrence Lessig
+{1}
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it. -- Alan J. Perlis (Epigrams in programming)
+{1}
+A year spent in artificial intelligence is enough to make one believe in God. -- Alan J. Perlis (Epigrams in programming)
+{1}
+Dealing with failure is easy: Work hard to improve. Success is also easy to handle: You've solved the wrong problem. Work hard to improve. -- Alan J. Perlis (Epigrams in programmi ng)
+{1}
+Within a computer natural language is unnatural. -- Alan J. Perlis (Epigrams in programming)
+{1}
+You think you know when you learn, are more sure when you can write, even more when you can teach, but certain when you can program. -- Alan J. Perlis (Epigrams in programming)
+{1}
+Adapting old programs to fit new machines usually means adapting new machines to behave like old ones. -- Alan J. Perlis (Epigrams in programming)
+{1}
+A little learning is a dangerous thing. -- Alexander Pope
+{1}
+Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter. -- Eric Raymond
+{1}
+Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. -- Frederick P. Brooks, No Sliver Bullet.
+{1}
+Students should be evaluated on how well they can achieve the goals they strived to achieve within a realistic context. Students need to learn to do things, not know things. -- Roger Schank, Engines for Education
+{1}
+We remember what we learn when we care about performing better and when we believe that what we have been asked to do is representative of reality. -- Roger Schank, Engines for Education
+{1}
+There really is no learning without doing. -- Roger Schank, Engines for Education
+{1}
+La tactique, c'est ce que vous faites quand il y a quelque chose à faire; la stratégie, c'est ce que vous faites quand il n'y a rien à faire. -- Xavier Tartacover
+{1}
+The only problems we can really solve in a satisfactory manner are those that finally admit a nicely factored solution. -- E. W. Dijkstra, The humble programmer
+{1}
+The best way to learn to live with our limitations is to know them. --E. W. Dijkstra, The humble programmer
+{1}
+Ce n'est que par les relations qu'on entretient entre nos différentes connaissances qu'elles nous restent accessibles. -- Shnuup, sur l'hypertexte (SELFHTML -> Introduction -> Definitions sur l'hypertexte)
+{1}
+An expert is, according to my working definition "someone who doesn't need to look up answers to easy questions". -- Eric Lippert.
+{1}
+The programmer must seek both perfection of part and adequacy of collection. -- Alan J. Perlis
+{1}
+Thus, programs must be written for people to read, and only incidentally for machines to execute. -- Alan J. Perlis
+{1}
+Lisp programmers know the value of everything but the cost of nothing. -- Alan J. Perlis
+{1}
+An interpreter raises the machine to the level of the user program; a compiler lowers the user program to the level of the machine language. -- SICP
+{1}
+Everything should be made as simple as possible, but no simpler. -- Albert Einstein
+{1}
+The great dividing line between success and failure can be expressed in five words: "I did not have time." -- WestHost weekly newsletter 14 Feb 2003
+{1}
+When your enemy is making a very serious mistake, don't be impolite and disturb him. -- Napoleon Bonaparte (allegedly)
+{1}
+A charlatan makes obscure what is clear; a thinker makes clear what is obscure. -- Hugh Kingsmill
+{1}
+The three chief virtues of a programmer are: Laziness, Impatience and Hubris. -- Larry Wall (Programming Perl)
+{1}
+All non-trivial abstractions, to some degree, are leaky. -- Joel Spolsky (The Law of Leaky Abstractions)
+{1}
+XML wasn't designed to be edited by humans on a regular basis. -- Guido van Rossum
+{1}
+Premature abstraction is an equally grevious sin as premature optimization. -- Keith Devens
+{1}
+You can have premature generalization as well as premature optimization. -- Bjarne Stroustrup
+{1}
+He causes his sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous. -- Matthew 5:45
+{1}
+A language that doesn't affect the way you think about programming, is not worth knowing. -- Alan Perlis
+{1}
+Men never do evil so completely and cheerfully as when they do it from religious conviction. -- Blaise Pascal (attributed)
+{1}
+Everybody makes their own fun. If you don't make it yourself, it ain't fun -- it's entertainment. -- David Mamet (as relayed by Joss Whedon)
+{1}
+If we wish to count lines of code, we should not regard them as *lines produced* but as *lines spent*. -- Edsger Dijkstra		
+{1}
+Omit needless words.-- William Strunk, Jr. (The Elements of Style)
+{1}
+I have never met a man so ignorant that I couldn't learn something from him. -- Galileo Galilei
+{1}
+Philosophy: the finding of bad reasons for what one believes by instinct. -- Brave New World (paraphrased)
+{1}
+Fools! Don't they know that tears are a woman's most effective weapon? -- Catwoman (The Batman TV Series, episode 83)
+{1}
+It's like a condom; I'd rather have it and not need it than need it and not have it. -- some chick in Alien vs. Predator, when asked why she always carries a gun
+{1}
+C++ is history repeated as tragedy. Java is history repeated as farce. -- Scott McKay
+{1}
+Simplicity takes effort-- genius, even. -- Paul Graham
+{1}
+Show, don't tell. -- unknown
+{1}
+In God I trust; I will not be afraid. What can mortal man do to me? -- David (Psalm 56:4)
+{1}
+Linux is only free if your time has no value. -- Jamie Zawinski
+{1}
+Code is poetry. -- wordpress.org
+{1}
+If you choose not to decide, you still have made a choice. -- Rush (Freewill)
+{1}
+Civilization advances by extending the number of important operations which we can perform without thinking about them. -- Alfred North Whitehead (Introduction to Mathematics)		
+{1}
+The function of wisdom is to discriminate between good and evil. -- Cicero
+{1}
+Mistakes were made.-- Ronald Reagan
+{1}
+I would rather be an optimist and be wrong than a pessimist who proves to be right. The former sometimes wins, but never the latter. -- "Hoots"
+{1}
+What is truth? -- Pontius Pilate
+{1}
+Life moves pretty fast. If you don't stop and look around once in a while, you could miss it. -- Ferris Bueller
+{1}
+Any sufficiently complicated C or Fortran program contains an ad hoc, informally specified, bug-ridden, slow implementation of half of Common Lisp. -- Philip Greenspun (Greenspun's Tenth Rule)
+{1}
+The direct pursuit of happiness is a recipe for an unhappy life.-- Donald Campbell
+{1}
+All problems in computer science can be solved by another level of indirection.-- Butler Lampson	
+{1}
+A designer knows he has arrived at perfection not when there is no longuer anything to add, but when there is no longuer anything to take away. -- Antoine de St Exupery.
+{1}
+For the things we have to learn before we can do them, we learn by doing them. -- Aristotle.
+{1}
+There are many ways to avoid success in life, but the most sure-fire just might be procrastination. -- Hara Estroff Marano.
+{1}
+PI seconds is a nanocentury. -- [fact]
+{1}
+A non negative binary integer value x is a power of 2 iff (x & (x-1)) is 0 using 2's complement arithmetic. -- [fact]
+{1}
+Dont give users the opportunity to lock themselves. -- unknown
+{1}
+Any fool can make the simple complex, only a smart person can make the complex simple. -- unknown
+{1}
+- If you give him a penny for his thoughts, you'd get change. - Not the sharpest knife in the drawer. - A prime candidate for natural deselection. -- [Ideas for flamewars]
+{1}
+Only bad designers blame their failings on the users. -- unknown
+{1}
+When all you have is a hammer, everything looks like a nail. -- unknown
+{1}
+If there is a will, there is a way. -- unknown
+{1}
+Having large case statements in an object-oriented language is a sure sign your design is flawed. -- [Fixing architecture flaws in Rails' ORM]
+{1}
+So - what are the most important problems in software engineering? I’d answer “dealing with complexity”. -- Mark Chu-Carroll
+{1}
+The choice of the university is mostly important for the piece of paper you get at the end. The education you get depends on you. -- Andreas Zwinkau
+{1}
+Remember that you are humans in the first place and only after that programmers. -- Alexandru Vancea
+{1}
+As builders and creators finding the perfect solution should not be our main goal. We should find the perfect problem. -- Isaac (blog comment)
+{1}
+Just like carpentry, measure twice cut once. -- Super-sizing YouTube with Python (Mike Solomon)
+{1}
+The good thing about reinventing the wheel is that you get a round one. -- Douglas Crockford (Author of JSON and JsLint)
+{1}
+I feel it is everybodies obligation to reach for the best in themselves and use that for the interest of mankind. -- Corneluis (comment on 'Are you going to change the world? (Really?)')
+{1}
+Resume writing is just like dating, or applying for a bank loan, in that nobody wants you if you're desperate. -- Steve Yegge.
+{1}
+It(mastering)’s knowing what you are doing. -- Joesgoals.com
+{1}
+If I tell you I'm good, you would probably think I'm boasting. If I tell you I'm no good, you know I'm lying. -- Bruce Lee
+{1}
+If something isn’t working, you need to look back and figure out what got you excited in the first place. -- David Gorman 
+{1}
+Seize any opportunity, or anything that looks like opportunity. They are rare, much rarer than you think... -- Nassim Nicholas Taleb, "The Black Swan".
+{1}
+We tend to seek easy, single-factor explanations of success. For most important things, though, success actually requires avoiding many separate causes of failure. -- Jared Diamond
+{1}
+Things which matter most must never be at the mercy of things which matter least. -- Johann Wolfgang Von Goethe (1749-1832)
+{1}
+I think the root of your mistake is saying that macros don't scale to larger groups. The real truth is that macros don't scale to stupider groups. -- Paul Graham, on the Lightweight Languages mailing list.
+{1}
+Argue with idiots, and you become an idiot. If you compete with slaves you become a slave. -- Paul Graham and Norbert Weiner, respectively
+{1}
+Don't have good ideas if you aren't willing to be responsible for them. -- Alan Perlis
+{1}
+It is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with ten blunt axes instead.  -- Edsger Dijkstra
+{1}
+If we wish to count lines of code, we should not regard them as lines produced but as lines spent. -- Edsger Dijkstra
+{1}
+The most damaging phrase in the language is, It's always been done that way. -- Rear Admiral Grace Hopper
+{1}
+The only thing a man should ever be 100% convinced of is his own ignorance. -- DJ MacLean
+{1}
+In theory, there’s no difference between theory and practice. But in practice, there is. -- Albert Einstein
+{1}
+Act from reason, and failure makes you rethink and study harder. Act from faith, and failure makes you blame someone and push harder.--  Erik Naggum
+{1}
+Measure everything you can about the product, and you'll start seeing patterns. -- Max Levchin, PayPal founder, Talk at StartupSchool2007
+{1}
+The only constant in the world of hi-tech is change.-- Mark Ward
+{1}
+Write it properly first. It's easier to make a correct program fast, than to make a fast program correct. 
+{1}
+J'ai toujours préféré la folie des passions à la sagesse de l'indifférence. -- Anatole France
+{1}
+You can’t get to version 500 if you don’t start with a version 1. 
+{1}
+The wonderful and frustrating thing about understanding yourself is that nobody can do it for you. 
+{1}
+When you have eliminated the impossible, whatever remains, however improbable, must be the truth. -- Sherlock Holmes
+{1}
+In order to understand what another person is saying, you must assume that it is true and try to find out what it could be true of. -- George Miller
+{1}
+A journey of a thousand miles must begin with a single step. -- Lao­Tzu
+{1}
+C’s great for what it’s great for. -- Ben Hoyts (micropledge)
+{1}
+There is one meaning [for static in C]: a global variable that is invisible outside the current scope, be it a function or a file. -- Paolo Bonzini
+{1}
+Processors don't get better so that they can have more free time. Processors get better so _you_ can have more free time. -- LeCamarade 
+{1}
+No art, however minor, demands less than total dedication if you want to excel in it. -- Alberti
+{1}
+The minute you put the blame on someone else you’ve switch things from being a problem you can control to a problem outside of your control. -- engtech 
+{1}
+State is the root of all evil. In particular functions with side effects should be avoided. 
+{1}
+Ils ne sont pas forts parce qu'ils sont forts. Ils sont forts parce que nous sommes faibles. -- Ragala Khalid
+{1}
+It is better to be quiet and thought a fool than to open your mouth and remove all doubt. -- WikiHow
+{1}
+A tail call allows a function to return the result of another function without leaving an entry on the stack. Tail recursion is a specific case of tail calling. -- ASPN : Python Cookbook : Explicit Tail Call
+{1}
+Simplicity means the achievement of maximum effect with minimum means. -- Dr. Koichi Kawana
+{1}
+Normality is the route to nowhere. -- Ridderstrale & Nordstorm, Funky Business
+{1}
+The problem is that Microsoft just has no taste. And I don't mean that in a small way, I mean that in a big way. -- Steve Jobs
+{1}
+Do you want to sell sugared water all your life or do you want to change the world? -- Steve Jobs, to John Sculley (former Pepsi executive)
+{1}
+Good work is no done by ‘humble’ men. -- H. Hardy, A mathematician's apology.
+{1}
+Simplicity and pragmatism beat complexity and theory any day. -- Dennis (blog comment)
+{1}
+Remember, always be yourself ... unless you suck!-- Joss Whedon
+{1}
+All great things require great dedication.-- Chuck Norris(?)
+{1}
+I'm always happy to trade performance for readability as long as theformer isn't already scarce. -- Crayz 
+{1}
+The definition of insanity is doing the same thing over and over again and expecting different results. -- Benjamin Franklin
+{1}
+A no uttered from the deepest conviction is better than a yes merely uttered to please or what is worse, to avoid trouble. -- Mahatma Gandhi
+{1}
+The general principle for complexity design is this: Think locally, act locally.-- Richard P. Gabriel & Ron Goldman, Mob Software: The Erotic Life of Code
+{1}
+Programming is the art of figuring out what you want so precisely that even a machine can do it. -- Some guy who isn't famous
+{1}
+Remember: you are alone. Every time you can get help from someone, it is an opportunity: you should eagerly size it. But then, promptly return to normal mode: you are alone and you must be prepared to solve every problem yourself. -- Eric KEDJI
+{1}
+Making All Software Into Tools Reduces Risk. -- smoothspan.com
+{1}
+Some may say Ruby is a bad rip-off of Lisp or Smalltalk, and I admit that. But it is nicer to ordinary people. -- Matz, LL2
+{1}
+C and Lisp stand at opposite ends of the spectrum; they're each great at what the other one sucks at. -- Steve Yegge, Tour de Babel.
+{1}
+Two people should stay together if together they are better people than they would be individually. -- ?
+{1}
+To the optimist, the glass is half full. To the pessimist, the glass is half empty. To the engineer, the glass is twice as big as it needs to be. -- author unknown (quoted in `Robust Systems', Gerald Jay Suseman)

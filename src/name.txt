@@ -1,0 +1,41 @@
+Skladovka.md
+{1}
+Chirie depozit
+{1}
+Mini depozite
+{1}
+Depozit personal
+{1}
+Mini depozit personal
+{1}
+Inchiriati un depozit
+{1}
+Inchiriati un mini depozit
+{1}
+Depozit de inchiriat
+{1}
+Inchiriere mini depozit
+{1}
+Depozit la Botanica
+{1}
+Depozitul tau
+{1}
+Аренда склада
+{1}
+Мини-склады
+{1}
+Личный склад
+{1}
+Твой мини-склад
+{1}
+Арендуй склад
+{1}
+Аренда мини склад
+{1}
+Снять склад
+{1}
+Аренда склада для хранения
+{1}
+Склад на Ботанике
+{1}
+Твой склад
